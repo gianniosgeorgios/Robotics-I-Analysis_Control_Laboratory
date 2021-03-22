@@ -46,11 +46,20 @@ The equations that describe poistion of end - effector about 2nd joint's coordin
 
 #### Subtask 2: From start to 2nd rotational joint 
  
-Finally after reduction 
+Finally after reduction below equations to base coordinates' system we take 
+
+![5](https://user-images.githubusercontent.com/50829499/111991459-076f9e00-8b1d-11eb-92ed-102271e8e79c.png)
+
+that are final equations from base to end -effector
  
-
-
 ## Simulation 
+
+The above equations, have beenn included to matlab code in order to simulate a straight forward movement. As we see the robotic arm
+performs desired movement through points.
+
+![6](https://user-images.githubusercontent.com/50829499/111991587-266e3000-8b1d-11eb-9ec0-195cfaf5a193.png)
+
+
 
 
 
