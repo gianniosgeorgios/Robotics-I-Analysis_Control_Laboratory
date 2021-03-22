@@ -36,7 +36,7 @@ As we see, there is no discontinuity in these curves and no "conrner points",as 
 
 ### Joint Space
 
-After finding desired position/velocity of end effector (each time), we should identify which must be joint's angular positions to ensure these. We broke this task into two subtasks 
+After finding desired position/velocity of end effector (each time), we should identify which must be joint's angular positions. We broke this task into two subtasks 
 
 #### Subtask 1: From 2nd rotational joint to end effector 
 
