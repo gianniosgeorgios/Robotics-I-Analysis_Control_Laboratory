@@ -16,5 +16,26 @@ This robotic manipulator has 3 Rotational DOF (as a common human-like arm) and s
 
 ### Task Space
 
+First of all we check if it possible for arm to reach A and B points (these points must be inside of workspace without a danger of singular configurations).
+
+#### Path planing
+
+After we define a 3rd polynomial that ensures velocity smoothness:
+
+![2](https://user-images.githubusercontent.com/50829499/111986837-1ce1c980-8b17-11eb-844d-e9489521de9a.png)
+
+About position the variables pe_x, pe_y and pe_z are during time:
+
+![3](https://user-images.githubusercontent.com/50829499/111988139-c6758a80-8b18-11eb-827b-ac7cf588e979.png)
+
+About velocity the variables pe_x, pe_y and pe_z are during time:
+
+As we see, there is no discontinuity in these curves and no "conrner points",as desired.
+
+
 ### Joint Space
+
+## Simulation 
+
+
 
