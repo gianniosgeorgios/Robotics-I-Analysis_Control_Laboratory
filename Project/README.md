@@ -46,11 +46,11 @@ The equations that describe poistion of end - effector, about 2nd joint's coordi
 
 #### Subtask 2: From start to 2nd rotational joint 
  
-Finally after reduction below equations to base coordinates' system we take 
+Finally after reduction to base coordinates' system we take 
 
 ![5](https://user-images.githubusercontent.com/50829499/111991459-076f9e00-8b1d-11eb-92ed-102271e8e79c.png)
 
-that are final equations from base to end -effector
+that are final equations from base to end-effector.
  
 ## Simulation 
 
