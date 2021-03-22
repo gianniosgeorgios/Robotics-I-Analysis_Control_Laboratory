@@ -40,7 +40,7 @@ After finding desired position/velocity of end effector (each time), we should i
 
 #### Subtask 1: From 2nd rotational joint to end effector 
 
-The equations that describe poistion of end - effector about 2nd joint's coordinates system are:
+The equations that describe poistion of end - effector, about 2nd joint's coordinates system are:
 ![5](https://user-images.githubusercontent.com/50829499/111989972-1d7c5f00-8b1b-11eb-82c0-cf9307ecc18c.png)
 
 
