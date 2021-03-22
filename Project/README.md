@@ -20,15 +20,15 @@ First of all we check if it possible for arm to reach A and B points (these poin
 
 #### Path planing
 
-After we define a 3rd polynomial that ensures velocity smoothness:
+After, we define a 3rd polynomial that ensures velocity smoothness:
 
 ![2](https://user-images.githubusercontent.com/50829499/111986837-1ce1c980-8b17-11eb-844d-e9489521de9a.png)
 
-About position the variables pe_x, pe_y and pe_z are during time:
+About position, the variables pe_x, pe_y and pe_z are during time:
 
 ![3](https://user-images.githubusercontent.com/50829499/111988139-c6758a80-8b18-11eb-827b-ac7cf588e979.png)
 
-About velocity the variables pe_x, pe_y and pe_z are during time:
+About velocity, the variables pe_x, pe_y and pe_z are during time:
 
 ![3](https://user-images.githubusercontent.com/50829499/111988815-a5616980-8b19-11eb-8b09-e6deb2590044.png)
 
