@@ -30,10 +30,21 @@ About position the variables pe_x, pe_y and pe_z are during time:
 
 About velocity the variables pe_x, pe_y and pe_z are during time:
 
+![3](https://user-images.githubusercontent.com/50829499/111988815-a5616980-8b19-11eb-8b09-e6deb2590044.png)
+
 As we see, there is no discontinuity in these curves and no "conrner points",as desired.
 
-
 ### Joint Space
+
+After finding desired position/velocity of end effector (each time), we should identify which must be joint's angular positions to ensure these. We broke this task into two subtasks 
+
+#### Subtask 1: From 2nd rotational joint to end effector 
+
+![4](https://user-images.githubusercontent.com/50829499/111989972-1d7c5f00-8b1b-11eb-82c0-cf9307ecc18c.png)
+
+
+#### Subtask 2: From start to 2nd rotational joint 
+ 
 
 ## Simulation 
 
