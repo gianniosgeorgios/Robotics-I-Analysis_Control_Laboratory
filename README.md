@@ -1,6 +1,8 @@
-# Robotics_I:_Analysis_Control_Laboratory Ntua 2019-2020
+# Robotics_I:_Analysis_Control_Laboratory  
 
 ![1](https://user-images.githubusercontent.com/50829499/111995510-aeeecf80-8b21-11eb-8619-19160428ceac.png)
+
+A repository for Robotics 1 Course in ECE NTUA 2019-2020
 
 ## Project: 
 Kinematic analysis of robot manipulator, forward and inverse geometric modeling of a 3 DOF Robotic Arm
